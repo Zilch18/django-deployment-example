@@ -29,7 +29,7 @@ SECRET_KEY = 'q-zgzit=v9-mccvm@^k+fw#$pb)4b#rbog&(7&o8i$io7_#9o#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jerricho.pythonanywhere.com']
 
 
 # Application definition
